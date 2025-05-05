@@ -1,65 +1,48 @@
 
-body{
-    display: flex;
+ body{
+    /* display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color:#d5e1ef;
-}
+    align-items: center; */
+    /* height: 100vh; */
+    /* margin: 0;
+    ; */
+} 
 .Qr-card{
-    background-color: #ffffff;
-    flex-direction: column;
-    width:  320px ;
-    gap:24px;
-    border-radius: 20px;
-    padding:16px 16px 40px;
+    /* background-color: #ffffff; */
+    /* flex-direction: column; */
+    /* width:  320px ; */
+    /* gap:24px; */
+    /* border-radius: 20px; */
+    /* padding:16px 16px 40px; */
     box-shadow: 0px 25px 25px 0 rgba(16, 15, 15, 0.05);
      /* height: 497px; */
     
    
 }
 
-.Qr-image{
-    width: 288px;
-    height: 288px;
-    border-radius:10px;
-}
 
- h2{
+
+ /* h2{
     font-family: Outfit;
     font-weight: 700;
-    font-size: 1.38rem;
-    /* width: 256px;
-    height:52px; */
-    text-align: center;
-    color: #1f314f;
+    color:#1f314f;
 
 }
 p{
     font-family: Outfit;
-    font-weight: 400;
-    font-size: 0.9rem;
-    text-align: center;
-    width:256px; */
-    height:63px;
-    justify-content: center;
-    letter-spacing: 0.20000000298023224px;
-    margin-top: 20px;
-    color: #7b879b; 
+    color:#68778d;
+    c
  
-}
-body{
-    text-align:center;
-}
+} */
 
-p{
+
+/* p{
     max-width: 260px; /* Force width to encourage line wrapping */
-    margin: 0 auto;
-  }
+    /* margin: 0 auto; */
+  } */
 
-/* Focus styles */
+Focus styles
 :focus {
     outline: 3px solid #4d90fe;
 
