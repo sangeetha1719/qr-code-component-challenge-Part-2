@@ -1,59 +1,14 @@
-
- body{
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
-    /* height: 100vh; */
-    /* margin: 0;
-    ; */
-} 
-.Qr-card{
-    /* background-color: #ffffff; */
-    /* flex-direction: column; */
-    /* width:  320px ; */
-    /* gap:24px; */
-    /* border-radius: 20px; */
-    /* padding:16px 16px 40px; */
-    box-shadow: 0px 25px 25px 0 rgba(16, 15, 15, 0.05);
-     /* height: 497px; */
-    
-   
+.Qr-card {
+  box-shadow: 0px 25px 25px 0 rgba(16, 15, 15, 0.05);
 }
 
-
-
- /* h2{
-    font-family: Outfit;
-    font-weight: 700;
-    color:#1f314f;
-
-}
-p{
-    font-family: Outfit;
-    color:#68778d;
-    c
- 
-} */
-
-
-/* p{
-    max-width: 260px; /* Force width to encourage line wrapping */
-    /* margin: 0 auto; */
-  } */
-
-Focus styles
-:focus {
-    outline: 3px solid #4d90fe;
-
+Focus styles :focus {
+  outline: 3px solid #4d90fe;
 }
 
 @media screen and (max-width: 375px) {
-    body {
-        /* Slightly smaller font size for very small screens */
-        font-size: 15px;
-    }
+  body {
+    /* Slightly smaller font size for very small screens */
+    font-size: 15px;
+  }
 }
-
-
-
